@@ -1,0 +1,28 @@
+{
+    "diffEditor.maxComputationTime": 0,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": false,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "explorer.compactFolders": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "gitblame.inlineMessageEnabled": true,
+    "github.copilot.preferredAccount": "savonije",
+    "prettier.tabWidth": 4,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.nativeTabs": true,
+    "window.openFoldersInNewWindow": "on",
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "readme",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+}
