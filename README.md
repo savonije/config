@@ -14,3 +14,6 @@ https://beardedspice.github.io/
 
 ## Stats
 https://github.com/exelban/stats
+
+## Oh My ZSH
+https://ohmyz.sh/
