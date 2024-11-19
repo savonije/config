@@ -28,7 +28,7 @@
     "files.associations": {
         "*.css": "tailwindcss"
     },
-    "scss.validate": false
+    "scss.validate": false,
     // "[xml]": {
     //     "editor.defaultFormatter": "redhat.vscode-xml"
     // },
