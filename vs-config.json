@@ -24,5 +24,12 @@
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
     "editor.quickSuggestions": {
         "strings": true
-    }
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "scss.validate": false
+    // "[xml]": {
+    //     "editor.defaultFormatter": "redhat.vscode-xml"
+    // },
 }
