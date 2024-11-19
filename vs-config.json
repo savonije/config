@@ -29,7 +29,4 @@
         "*.css": "tailwindcss"
     },
     "scss.validate": false,
-    // "[xml]": {
-    //     "editor.defaultFormatter": "redhat.vscode-xml"
-    // },
 }
