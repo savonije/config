@@ -3,6 +3,10 @@
 ## Raycast
 https://www.raycast.com/
 
+### Raycast extensions
+https://www.raycast.com/thomas/color-picker
+https://www.raycast.com/HelloImSteven/sips
+
 ## Hidden bar
 https://github.com/dwarvesf/hidden
 
