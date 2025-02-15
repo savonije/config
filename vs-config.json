@@ -13,7 +13,6 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "gitblame.inlineMessageEnabled": true,
-    "github.copilot.preferredAccount": "savonije",
     "prettier.tabWidth": 4,
     "security.workspace.trust.untrustedFiles": "open",
     "window.nativeTabs": true,
@@ -38,5 +37,6 @@
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
     "prettier.singleQuote": true,
-    "editor.accessibilitySupport": "off"
+    "editor.accessibilitySupport": "off",
+    "css.lint.unknownAtRules": "ignore"
 }
