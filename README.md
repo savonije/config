@@ -8,6 +8,8 @@ https://www.raycast.com/thomas/color-picker
 
 https://www.raycast.com/HelloImSteven/sips
 
+https://www.raycast.com/gebeto/translate
+
 ## Hidden bar
 https://github.com/dwarvesf/hidden
 
