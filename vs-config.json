@@ -38,5 +38,10 @@
     "typescript.preferences.quoteStyle": "single",
     "prettier.singleQuote": true,
     "editor.accessibilitySupport": "off",
-    "css.lint.unknownAtRules": "ignore"
+    "css.lint.unknownAtRules": "ignore",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.svg": "default"
+    },
+    "tailwindCSS.experimental.configFile": "resources/styles/app.css"
 }
